@@ -31,11 +31,11 @@ jobs:
           at: .
       - aws-s3/sync:
           from: dist/html
-          to: s3://mattermost-developer-documentation/branches/$CIRCLE_BRANCH
+          to: s3://mattermost-documentation/branches/$CIRCLE_BRANCH
           arguments: '--acl public-read'
       - aws-s3/sync:
           from: dist/html
-          to: s3://mattermost-developer-documentation/commits/$CIRCLE_SHA1
+          to: s3://mattermost-documentation/commits/$CIRCLE_SHA1
           arguments: '--acl public-read'
 
 workflows:
@@ -44,6 +44,6 @@ workflows:
     jobs:
       - build
       - deploy:
-          context: mattermost-dev-docs-s3
+          context: mattermost-documentation-s3
           requires:
             - build
