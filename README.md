@@ -1,4 +1,4 @@
-# Mattermost Developer Documentation [![Mattermost dev docs status badge](https://circleci.com/gh/mattermost/mattermost-developer-documentation.svg?style=svg)](https://circleci.com/gh/mattermost/mattermost-developer-documentation/tree/master)
+# Mattermost Developer Documentation [![Mattermost dev docs status badge](https://circleci.com/gh/mattermost/mattermost-documentation.svg?style=svg)](https://circleci.com/gh/mattermost/mattermost-documentation/tree/master)
 
 Website for Mattermost developer documentation, built using [Hugo](https://gohugo.io/). Master is continuously deployed to [developers.mattermost.com](https://developers.mattermost.com/).
 
@@ -13,12 +13,12 @@ brew install hugo
 
 2. Fork and clone the repo into your ~/Sites/ directory
 ```
-git clone git@github.com:<yourgithubname>/mattermost-developer-documentation.git ~/Sites/
+git clone git@github.com:<yourgithubname>/mattermost-documentation.git ~/Sites/
 ```
 
 3. Run the server
 ```
-cd ~/Sites/mattermost-developer-documentation/site
+cd ~/Sites/mattermost-documentation/site
 hugo server -D
 ```
 

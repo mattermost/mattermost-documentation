@@ -12,7 +12,7 @@ pygmentsStyle = "manni"
   author = ""
   description = ""
   email = ""
-  ghrepo = "https://github.com/mattermost/mattermost-developer-documentation/"
+  ghrepo = "https://github.com/mattermost/mattermost-documentation/"
 
   [params.mailinglist]
     enable = false
@@ -85,7 +85,7 @@ pygmentsStyle = "manni"
       url = "https://docs.mattermost.com/"
       name = "Admin Docs"
       weight = 5
-      
+
 
     # Workaround to add draft status to menu items
     [[params.navigation.drafts]]

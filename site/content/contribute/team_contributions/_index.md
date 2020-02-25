@@ -95,7 +95,7 @@ Contributors by GitHub username and (contribution date) are alphabetically liste
 
   - mthornba (2017.10.29)
 
-### [mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+### [mattermost-documentation](https://github.com/mattermost/mattermost-documentation)
 
   - aayushbisen (2019.07.18), bd12 (2018.11.06), checkaayush (2019.03.21), cpanato (2018.06.05), ewwollesen (2019.06.14), g3rv4 (2019.08.07), Hanzei (2018.01.24), henrymori (2019.05.21), jasonblais (2018.05.11), johnsenner (2019.03.01), jwilander (2017.11.17), kdenz (2019.08.31), nadaa (2019.03.15), Rajakavitha1 (2019.08.05), sanojsubran (2019.02.21), Selimix (2019.07.22), yakimant (2018.12.09)
 
