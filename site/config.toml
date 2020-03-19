@@ -1,7 +1,7 @@
 # Page settings
 baseURL = ""
 relativeURLs = true
-title = "Mattermost Documentation"
+title = "SANDBOX ENVIRONMENT"
 languageCode = "en-us"
 publishDir = "../docs"
 pygmentsCodeFences = true
@@ -48,7 +48,7 @@ pygmentsStyle = "manni"
 
   # Navigation
   [params.navigation]
-    brand = "Mattermost Documentation"
+    brand = "This is a sandbox environment. Please see docs.mattermost.com for Mattermost documentation"
     home = "Home"
 
     # You can add custom links before or after the default links
