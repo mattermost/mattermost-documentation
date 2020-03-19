@@ -28,7 +28,7 @@ theme = "hugo-elate-theme"
 
     # postpended links
     [[menu.postpend]]
-      url = "/contribute/"
+      url = "/docs/"
       name = "Docs"
       weight = 10
 
@@ -44,7 +44,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Docs"
     description = "Technical product documentation for end users, administrators and developers."
-    url = "/contribute/"
+    url = "/docs/"
     button = "Explore Docs"
     icon = "icon-bulb"
     img = "img_7.jpg"
@@ -52,7 +52,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Education"
     description = "Technical articles, guides, videos, and courses."
-    url = "/integrate"
+    url = "/education/"
     button = "Explore Education"
     icon = "icon-wrench"
     img = "img_8.jpg"
@@ -60,7 +60,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Community"
     description = "Contributor documentation and relevant community communications."
-    url = "/extend"
+    url = "/community/"
     button = "Explore Community"
     icon = "icon-rocket"
     img = "img_10.jpg"
@@ -68,7 +68,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Support"
     description = "Self-service support content, including knowledge-based FAQs."
-    url = "/internal"
+    url = "/support/"
     button = "Explore Support"
     icon = "icon-rocket"
     img = "img_10.jpg"
