@@ -1,8 +1,6 @@
 ---
 title: "Settings and Notifications"
-date: 2019-06-18T00:00:00-04:00
-weight: 50
-subsection: Home
+section: "docs"
 ---
 
 Learn about settings and notification options at Mattermost.
