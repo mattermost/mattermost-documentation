@@ -62,22 +62,22 @@ pygmentsStyle = "manni"
 
     # postpended links
     [[menu.postpend]]
-      url = "/contribute/getting-started"
+      url = "/docs/main"
       name = "Docs"
       weight = 1
 
     [[menu.postpend]]
-      url = "/integrate/getting-started"
+      url = "/education/main"
       name = "Education"
       weight = 2
 
     [[menu.postpend]]
-      url = "/extend/getting-started"
+      url = "/community/main"
       name = "Community"
       weight = 3
 
     [[menu.postpend]]
-      url = "/internal"
+      url = "/support/main"
       name = "Support"
       weight = 4
 
@@ -96,7 +96,7 @@ pygmentsStyle = "manni"
   [[params.intro.item]]
     title = "Docs"
     description = "Technical product documentation for end users, administrators and developers."
-    url = "contribute/getting-started"
+    url = "docs/main"
     button = "Explore Docs"
     icon = "/img/contribute-icon.svg"
     draft = false
@@ -104,7 +104,7 @@ pygmentsStyle = "manni"
   [[params.intro.item]]
     title = "Education"
     description = "Technical articles, guides, videos, and courses."
-    url = "integrate/getting-started"
+    url = "education/main"
     button = "Explore Education"
     icon = "/img/integrate-icon.svg"
     draft = false
@@ -112,7 +112,7 @@ pygmentsStyle = "manni"
   [[params.intro.item]]
     title = "Community"
     description = "Contributor documentation and relevant community communications."
-    url = "extend/getting-started"
+    url = "community/main"
     button = "Explore Community"
     icon = "/img/extend-icon.svg"
     draft = false
@@ -121,7 +121,7 @@ pygmentsStyle = "manni"
     title = "Support"
     description = "Self-service support content, including knowledge-based FAQs."
     url = "internal"
-    button = "Explore Support"
+    button = "support/main"
     icon = "/img/extend-icon.svg"
     draft = false
 
