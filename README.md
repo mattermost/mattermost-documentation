@@ -1,6 +1,8 @@
-# Mattermost Developer Documentation [![Mattermost dev docs status badge](https://circleci.com/gh/mattermost/mattermost-documentation.svg?style=svg)](https://circleci.com/gh/mattermost/mattermost-documentation/tree/master)
+# WIP
 
-Website for Mattermost developer documentation, built using [Hugo](https://gohugo.io/). Master is continuously deployed to [developers.mattermost.com](https://developers.mattermost.com/).
+This repository is a work in progress, exploring Mattermost docs restructuring.
+
+If you are looking for Mattermost documentation, please go to https://docs.mattermost.com. Else visit https://mattermost.com to learn more about Mattermost.
 
 ## Contributing
 
